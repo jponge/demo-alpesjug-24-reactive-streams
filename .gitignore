@@ -1,3 +1,6 @@
+# Slides
+slides.*
+
 #Maven
 target/
 pom.xml.tag
